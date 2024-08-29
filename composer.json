@@ -1,0 +1,17 @@
+{
+    "name": "keneil/laravel_chartmaster",
+    "description": "ChartMaster is a powerful Laravel package for ChartJS (in development) designed to make it easier than ever to implement charts in your Laravel projects. With ChartMaster, you can seamlessly integrate dynamic and interactive charts, backed by the flexibility of Chart.js, into your applications.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Keneil\\LaravelChartmaster\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "keneil Samms"
+        }
+    ],
+    "require": {}
+}
